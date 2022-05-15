@@ -1,0 +1,7 @@
+
+.vscode
+.clang-format
+workspace.code-workspace
+deprecated
+build
+*.exe
